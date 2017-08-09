@@ -6,7 +6,7 @@ import os
 DEBUG = os.environ.get('LEANCLOUD_APP_ENV') != 'production'
 ROOT_URLCONF = 'urls'
 SECRET_KEY = 'KD6X8apUraGzyPKoMByR8Y622'
-ALLOWED_HOSTS = ['chiji8.leanapp.cn']
+ALLOWED_HOSTS = ['chiji88.leanapp.cn']
 
 TEMPLATES = [{
     'BACKEND': 'django.template.backends.django.DjangoTemplates',
